@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/softNetTasks/static/css/main.2d89d07c.chunk.css",
+    "main.js": "/softNetTasks/static/js/main.1a052e07.chunk.js",
+    "main.js.map": "/softNetTasks/static/js/main.1a052e07.chunk.js.map",
+    "runtime-main.js": "/softNetTasks/static/js/runtime-main.c0826aec.js",
+    "runtime-main.js.map": "/softNetTasks/static/js/runtime-main.c0826aec.js.map",
+    "static/js/2.33376190.chunk.js": "/softNetTasks/static/js/2.33376190.chunk.js",
+    "static/js/2.33376190.chunk.js.map": "/softNetTasks/static/js/2.33376190.chunk.js.map",
+    "index.html": "/softNetTasks/index.html",
+    "precache-manifest.fb8a8e6522cccbbe3d7aa0c9a3e74575.js": "/softNetTasks/precache-manifest.fb8a8e6522cccbbe3d7aa0c9a3e74575.js",
+    "service-worker.js": "/softNetTasks/service-worker.js",
+    "static/css/main.2d89d07c.chunk.css.map": "/softNetTasks/static/css/main.2d89d07c.chunk.css.map",
+    "static/js/2.33376190.chunk.js.LICENSE.txt": "/softNetTasks/static/js/2.33376190.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0826aec.js",
+    "static/js/2.33376190.chunk.js",
+    "static/css/main.2d89d07c.chunk.css",
+    "static/js/main.1a052e07.chunk.js"
+  ]
+}
